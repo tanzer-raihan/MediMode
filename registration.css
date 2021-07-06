@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    height:100%;
+    font-family: sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(images/pexels-francesco-ungaro-2835436.jpg);
+ background-position: center;
+
+ background-size: cover;
+ position: absolute;
+}
+
+.register{
+    width: 350px;
+ margin:auto;
+ background-image: linear-gradient(rgb(47, 93, 98),rgb(94, 139, 126));
+ padding: 30px;
+ padding-left: 50px;
+ border-radius: 10px;
+ box-shadow: 5px 5px 5px rgb(47, 93, 98);
+ margin-top: 50px;
+
+ 
+}
+h2{ 
+    text-align: center;
+    margin: 5px;
+    font-family: sans-serif;
+}
+label{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    padding: 10px;
+}
+.new{
+height: 25px;
+width: 250px;
+border-radius: 10px;
+border-color: rgb(223, 238, 234);
+font-style: italic;
+font-weight: 300;
+padding-left: 10px;
+}
+
+    .sub{
+        height: 35px;
+        width: 100px;
+      border-radius: 10px;
+      font-style: italic;
+      border-color: rgb(223, 238, 234);
+      font-weight: 700;
+      background-image: linear-gradient(rgb(47, 93, 98),rgb(94, 139, 126));
+    }

@@ -1,0 +1,146 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+#take{
+    color: orange;
+}
+.para{
+    font-weight: 500;
+    text-align: justify;
+    color: grey;
+}
+.main{
+    display: flex;
+    margin-bottom: 90px;
+
+}
+.main img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.secone{
+    margin-top: 90px;
+   
+}
+.half-width{
+    width: 50%;
+    margin-left: 50px;
+    
+}
+
+
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,orangered);
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    
+    color:white;
+    
+
+    
+}
+.maintwo{
+    display: flex;
+    margin-bottom: 90px;
+   background: url(f.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   
+}
+#qualification{
+    color: orange;
+}
+.para-two{
+text-align: justify;
+padding: 50px;
+margin-top: 70px;
+
+}
+.half{
+    width: 50%;
+    margin-top: 60px;
+    margin-left: 100px;
+    padding-left: 80px;
+}
+.program{
+    text-align: center;
+   
+}
+.program p{
+    color: grey;
+}
+.last{
+    display: flex;
+    margin: 80px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    
+    
+    
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 50px;
+    padding: 10px;
+    width: 200px;
+    height: 350px;
+    font-size: 15px;
+    
+}
+.box img{
+  
+    
+    width:100%;
+    
+
+}
+.fan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    width: 1000px;
+    height: 70px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left: 120px;
+    margin-bottom: 80px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.follower{
+    margin-left: 50px;
+    text-align: center;
+    
+    
+
+
+}
+
+.register{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   text-decoration: none;
+    
+}
+footer{
+  background-color: black;
+  color : grey;
+  text-align: center;
+  padding: 20px;
+ 
+
+}
+.foot h3{
+    color: orange;
+    
+}
